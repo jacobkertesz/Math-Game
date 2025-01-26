@@ -5,7 +5,7 @@ The game is found at https://jacobkertesz.github.io/Math-Game/
 
 The purpose of creating this program was to give me an opportunity to learn the basic syntax of Javascript.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TyUYbHgPOfY)
 
 # Development Environment
 
