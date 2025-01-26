@@ -1,7 +1,7 @@
 # Overview
 
 This program runs a math game which displays random math problems for the user to solve within a limited time frame. 
-The game is found at https://jacobkertesz.github.io/mathgame/ 
+The game is found at https://jacobkertesz.github.io/Math-Game/ 
 
 The purpose of creating this program was to give me an opportunity to learn the basic syntax of Javascript.
 
